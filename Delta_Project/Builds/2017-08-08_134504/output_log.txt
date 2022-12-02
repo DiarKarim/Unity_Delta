@@ -1,0 +1,191 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+Platform assembly: D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 0.774540 ms
+Please submit the participant number to continue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Managed\System.Xml.dll (this message is harmless)
+Sending to 127.0.0.1 : 8888
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Testing: nc -lu 127.0.0.1 : 8888
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending to 127.0.0.1 : 8899
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test-Sending to this Port: nc -u 127.0.0.1  8899
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1bec -> priority: 1 
+  Thread -> id: fcc -> priority: 1 
+  Thread -> id: 196c -> priority: 1 
+  Thread -> id: 1954 -> priority: 1 
+Crash!!!
+SymInit: Symbol-SearchPath: '.', symOptions: 534, UserName: 'SyMon'
+OS-Version: 10.0.15063 () 0x300-0x1
+D:\LizziePC\Delta_Project\Builds\stage_2_v1.exe:stage_2_v1.exe (00250000), size: 18976768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.6.0.31247
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (77E10000), size: 1630208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.447
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (773B0000), size: 851968 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.296
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (76D70000), size: 1843200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.483
+C:\WINDOWS\System32\USER32.dll:USER32.dll (74930000), size: 1294336 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\win32u.dll:win32u.dll (774F0000), size: 90112 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (77520000), size: 135168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.483
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (74B20000), size: 1409024 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.413
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (76F40000), size: 495616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (75FD0000), size: 1146880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.447
+C:\WINDOWS\System32\ole32.dll:ole32.dll (76320000), size: 995328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.483
+C:\WINDOWS\System32\combase.dll:combase.dll (77170000), size: 2326528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.447
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (76480000), size: 786432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.447
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (743D0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\SspiCli.dll:SspiCli.dll (748E0000), size: 131072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (775A0000), size: 774144 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.15063.0
+C:\WINDOWS\System32\CRYPTBASE.dll:CRYPTBASE.dll (748D0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (76FC0000), size: 356352 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.138
+C:\WINDOWS\System32\sechost.dll:sechost.dll (74AD0000), size: 266240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (76B30000), size: 282624 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (76280000), size: 487424 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (74C80000), size: 20217856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.483
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (77C50000), size: 233472 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\shcore.dll:shcore.dll (76550000), size: 573440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\windows.storage.dll:windows.storage.dll (77660000), size: 5783552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.483
+C:\WINDOWS\System32\kernel.appcore.dll:kernel.appcore.dll (76300000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\powrprof.dll:powrprof.dll (77550000), size: 282624 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\profapi.dll:profapi.dll (74900000), size: 65536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (77480000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (76670000), size: 614400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.332
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (76B80000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (71EF0000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (73490000), size: 520192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (739D0000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\NSI.dll:NSI.dll (76310000), size: 28672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (71EC0000), size: 143360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (73920000), size: 708608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (716A0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (6F580000), size: 913408 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (70200000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (72B70000), size: 491520 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Mono\mono.dll:mono.dll (10000000), size: 2297856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.0.1
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (76540000), size: 24576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (738D0000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (77020000), size: 1335296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.332
+C:\WINDOWS\system32\dwmapi.dll:dwmapi.dll (728A0000), size: 143360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.483
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (723F0000), size: 2433024 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (732B0000), size: 565248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+D:\LizziePC\Delta_Project\Builds\stage_2_v1_Data\Plugins\OVRPlugin.dll:OVRPlugin.dll (6E860000), size: 2306048 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.12.0.0
+C:\WINDOWS\SYSTEM32\WTSAPI32.dll:WTSAPI32.dll (737C0000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\WININET.dll:WININET.dll (70280000), size: 2887680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.15063.483
+C:\WINDOWS\SYSTEM32\pdh.dll:pdh.dll (6F530000), size: 274432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\DbgHelp.dll:DbgHelp.dll (6E700000), size: 1429504 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.447
+C:\WINDOWS\System32\perfos.dll:perfos.dll (70860000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\wintrust.DLL:wintrust.DLL (76D20000), size: 278528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\MSASN1.dll:MSASN1.dll (76270000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.447
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (760F0000), size: 1560576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.296
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (73880000), size: 77824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (73850000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\bcrypt.dll:bcrypt.dll (743B0000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (74910000), size: 102400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.168
+C:\WINDOWS\SYSTEM32\gpapi.dll:gpapi.dll (73830000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT32_1.dll:LibOVRRT32_1.dll (6E570000), size: 1634304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.16.0.0
+C:\WINDOWS\system32\nvapi.dll:nvapi.dll (6B270000), size: 3936256 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 22.21.13.8476
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (76710000), size: 4300800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_2386fda73b467ac8\nvldumd.dll:nvldumd.dll (63260000), size: 765952 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 22.21.13.8476
+C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_2386fda73b467ac8\nvwgf2um.dll:nvwgf2um.dll (51310000), size: 22761472 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 22.21.13.8476
+C:\WINDOWS\system32\nvspcap.dll:nvspcap.dll (70B70000), size: 1495040 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.7.0.81
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (765E0000), size: 536576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (74640000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (745D0000), size: 425984 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (745C0000), size: 65536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (74500000), size: 786432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (71790000), size: 364544 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.447
+C:\WINDOWS\System32\DEVOBJ.dll:DEVOBJ.dll (73760000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\PROPSYS.dll:PROPSYS.dll (73590000), size: 1458176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.15063.0
+C:\WINDOWS\SYSTEM32\wdmaud.drv:wdmaud.drv (700E0000), size: 233472 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.447
+C:\WINDOWS\SYSTEM32\AVRT.dll:AVRT.dll (71120000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\ksuser.dll:ksuser.dll (70630000), size: 28672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (6FA60000), size: 880640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.447
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (709D0000), size: 856064 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\msacm32.drv:msacm32.drv (705C0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\MSACM32.dll:MSACM32.dll (747A0000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\midimap.dll:midimap.dll (6FE40000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.15063.483_none_6dad63fefc436da8\comctl32.dll:comctl32.dll (72960000), size: 2154496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.10.15063.0
+C:\WINDOWS\SYSTEM32\TextInputFramework.dll:TextInputFramework.dll (6D540000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (6D4B0000), size: 585728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.483
+C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (6D280000), size: 2256896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.483
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (73400000), size: 163840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\usermgrcli.dll:usermgrcli.dll (6FBA0000), size: 65536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\xinput9_1_0.dll:xinput9_1_0.dll (6FE30000), size: 28672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (73740000), size: 77824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (73720000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (73480000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+C:\WINDOWS\System32\fwpuclnt.dll:fwpuclnt.dll (73430000), size: 303104 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.15063.0
+
+========== OUTPUTING STACK TRACE ==================
+
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 003DD761)
+0x003DD761 (stage_2_v1) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 004277A1)
+0x004277A1 (stage_2_v1) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 0093C431)
+0x0093C431 (stage_2_v1) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 0093C509)
+0x0093C509 (stage_2_v1) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 002C759B)
+0x002C759B (stage_2_v1) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00A93E58)
+0x00A93E58 (stage_2_v1) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00AD1AD4)
+0x00AD1AD4 (stage_2_v1) 
+0x773C8744 (KERNEL32) BaseThreadInitThunk
+0x77E7582D (ntdll) RtlGetAppContainerNamedObjectPath
+0x77E757FD (ntdll) RtlGetAppContainerNamedObjectPath
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****

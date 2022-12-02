@@ -1,0 +1,44 @@
+		/* //Store address in pointer variable
+		cd[loopz][0] = &coord[loopz][0];
+		cd[loopz][1] = &coord[loopz][1];
+		cd[loopz][2] = &coord[loopz][2];
+		//cout << cd <<  endl;
+
+		CD[loopz][0] = *(*(cd + loopz) + 0);
+		CD[loopz][1] = *(*(cd + loopz) + 1);
+		CD[loopz][2] = *(*(cd + loopz) + 2);
+		cout << CD <<  endl;
+
+		CD[loopz][0] = *cd[loopz][0];
+		CD[loopz][1] = *cd[loopz][1];
+		CD[loopz][2] = *cd[loopz][2];
+		//cout << CD <<  endl; */
+
+
+			/*getline(infile, coordX);
+			getline(infile, coordY);
+			getline(infile, coordZ);
+
+			cX = atof(coordX.c_str());
+			cY = atof(coordY.c_str());
+			cZ = atof(coordZ.c_str());
+			//cout << cX << " " << cY << " " << cZ << " " << endl;
+
+			//drdTrackPos(cX, cY, cZ);
+
+
+
+
+	/* double radius = 0.03;
+	double alpha, beta;
+	double radial_vel   = 2*M_PI;
+	double vertical_vel = M_PI/10.0; */
+
+			// generate next sphere target point
+			// dt    = drdGetTime()-t0;
+			// alpha = radial_vel * dt;
+			// beta  = M_PI/2.0 + (vertical_vel * dt);
+		/*	px	  = x0+radius*cos(alpha)*cos(beta);
+			py    = y0+radius*sin(alpha)*cos(beta);
+			pz    = z0+radius*sin(beta); */
+			// if (beta > 5.0*M_PI/2.0) done = -1;
